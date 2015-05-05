@@ -1,0 +1,34 @@
+{
+  "name": "skeleton",
+  "version": "2.0.4",
+  "description": "Skeleton is a dead-simple, responsive boilerplate to kickstart any responsive project.",
+  "keywords": [
+    "css",
+    "skeleton",
+    "responsive",
+    "boilerplate"
+  ],
+  "authors": {
+    "name": "Dave Gamache",
+    "email": "hello@davegamache.com",
+    "url": "http://davegamache.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhg/Skeleton/issues"
+  },
+  "homepage": "http://getskeleton.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhg/Skeleton"
+  },
+  "main": "skeleton.css",
+  "style": "skeleton.css",
+  "files": [
+    "skeleton.css",
+    "LICENSE.md"
+  ],
+  "dependencies": {
+    "normalize.css": ">=3.0.2"
+  }
+}
