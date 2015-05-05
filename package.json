@@ -29,6 +29,12 @@
     "LICENSE.md"
   ],
   "dependencies": {
-    "normalize.css": ">=3.0.2"
+    "normalize.css": "~3.0.2"
+  },
+  "jspm": {
+    "main": "skeleton.css!",
+    "dependencies": {
+      "normalize.css": "jspm:normalize.css@~3.0.2"
+    }
   }
 }
